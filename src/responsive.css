@@ -1,0 +1,36 @@
+@media only screen and (max-width: 768px) {
+  .form h1 {
+    font-size: 2.5rem;
+    margin: 0;
+  }
+
+  input {
+    padding: 8px 12px;
+    width: 200px;
+  }
+
+  .search-btn {
+    padding: 8px 18px;
+    border-radius: 20px;
+  }
+
+  .full-btn {
+    padding: 5px 8px;
+  }
+
+  .active-recipe-img {
+    width: 100%;
+  }
+
+  .active-recipe-ingredients .ingredient-list {
+    width: 100%;
+    margin: 5px auto;
+  }
+
+  .active-recipe-footer .back {
+    padding: 5px 15px;
+  }
+  .active-recipe-publisher {
+    font-size: 1rem;
+  }
+}
